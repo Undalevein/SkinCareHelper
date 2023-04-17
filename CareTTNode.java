@@ -18,11 +18,42 @@ public class CareTTNode{
                 
     }
 
+
+    /** 
+     * 
+     * 
+     * 
+     */
     public void insert(String str){
-        if (){
+        TTNode current = null;
+        for (char c : str.toCharArray()){
             
         }
     }
 
+
+    /**
+     * @Override The ultimate 
+     * 
+     * @param Target
+     */
+
+    public boolean containsString(String target){
+
+    return false;
+    }
+
+
+    /**
+     * @Override When writing a few letters, the autocomplete method will 
+     * output 5 possible words at most that user can choose to complete 
+     * the method.
+     * @param prefix 
+    */
+    public String[] getPossibleWords(String prefix){
+        for (char c : prefix.toCharArray()){
+            
+        }
+    }
 
 }
