@@ -13,8 +13,8 @@
 # ***How it works***		
 
 1. The user will be prompted with 3 questions regarding their skin.
-2. The user will type their answer related to the question.
-3. The algorithm analyzes the users' answer and produces a solution. 
+2. The user will type their concern related to the question.
+3. The algorithm analyzes that answer and produces a product that will be a solution regarding their concern. 
 
 
 --- Clear Skin! ---
